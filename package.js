@@ -1,4 +1,4 @@
-export const flattenArray = (nestedArray) =>{
+const flattenArray = module.exports = (nestedArray) =>{
     let output = [];
     for(val of nestedArray){
         if(val.length === undefined){
