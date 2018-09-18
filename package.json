@@ -20,7 +20,7 @@
     "ioedeveloper"
   ],
   "author": "@ioedeveloper",
-  "license": "SEE LICENSE IN license.txt",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ioedeveloper/flattenarray/issues"
   },
