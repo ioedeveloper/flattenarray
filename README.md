@@ -1,7 +1,4 @@
-# MICRO-SERVICE
-A stateless micro-service in Node, which implements Authentication, JSON patching and Image Thumbnail Generation.
-
-## FLATTEN ARRAY
+# FLATTEN ARRAY
 A javascript library that flattens a nested array into a single flat array.
 
 ## How To Use
