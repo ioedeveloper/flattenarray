@@ -1,4 +1,4 @@
-let flattenArray = (nestedArray) =>{
+export const flattenArray = (nestedArray) =>{
     let output = [];
     for(val of nestedArray){
         if(val.length === undefined){
@@ -10,7 +10,4 @@ let flattenArray = (nestedArray) =>{
         }
     }
     return output;
-}
-
-let input = [1,2,[3,4,[5,6],7,[8,9]]];
-console.log(flattenArray(input));
+};
