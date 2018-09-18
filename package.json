@@ -1,0 +1,28 @@
+{
+  "name": "flattenarray",
+  "version": "1.0.0",
+  "description": "A javascript library that flattens a nested array into a single flat array.",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioedeveloper/flattenarray.git"
+  },
+  "keywords": [
+    "flatten",
+    "array",
+    "flat",
+    "Array",
+    "nested",
+    "array",
+    "ioedeveloper"
+  ],
+  "author": "@ioedeveloper",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/ioedeveloper/flattenarray/issues"
+  },
+  "homepage": "https://github.com/ioedeveloper/flattenarray#readme"
+}
